@@ -1,0 +1,1 @@
+export const USEREvents   = ['FOXCODE V2 USER create_newOne'];

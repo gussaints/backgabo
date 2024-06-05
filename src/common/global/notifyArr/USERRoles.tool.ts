@@ -1,0 +1,1 @@
+export const clientEvents = ['Read_user', 'User', 'Admin', 'Super', "Dev"];
