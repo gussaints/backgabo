@@ -1,6 +1,6 @@
 FROM node:latest
 WORKDIR /appnodejs
 ADD . /appnodejs
-RUN npm install
+RUN npm install --force
 EXPOSE 3000
 CMD npm start
